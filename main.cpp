@@ -3,5 +3,5 @@
 
 int main() {
     std::cout << fab(10) << std::endl;
-	return 0;
+    return 0;
 }
